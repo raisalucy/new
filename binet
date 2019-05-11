@@ -1,0 +1,6 @@
+curl -X "POST" "https://rest.nexmo.com/sms/json" \
+     -d "from=bkash" \
+     -d "text=  You have received Tk 6,000.00 from 01857844066. Ref 2. Fee Tk 0.00. Balance Tk 6,004.45. TrxID 6CK6TK8TXW at " \
+     -d "to=8801777429292" \
+     -d "api_key=7eea3523" \
+     -d "api_secret=7qrCOZWN4K0OIw3P"
